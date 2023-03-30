@@ -11,3 +11,11 @@
 
 **Excel functions for RFM analysis**:
 `datediff()` `percentrank.exc()`
+
+---
+- Clickthrough rate (CTR): 
+A ratio showing how often people who see your ad or free product listing end up clicking it. Clickthrough rate (CTR) can be used to gauge how well your keywords and ads, and free listings, are performing.
+
+CTR is the number of clicks that your ad receives divided by the number of times your ad is shown: clicks ÷ impressions = CTR. For example, if you had 5 clicks and 100 impressions, then your CTR would be 5%.
+
+---
