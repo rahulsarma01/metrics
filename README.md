@@ -18,4 +18,6 @@ A ratio showing how often people who see your ad or free product listing end up 
 
 CTR is the number of clicks that your ad receives divided by the number of times your ad is shown: clicks ÷ impressions = CTR. For example, if you had 5 clicks and 100 impressions, then your CTR would be 5%.
 
+- The Click-through-probability (CTP) is the probability a given user clicks to get to the next step. Its value is always between 0 and 1. It's therefore not the same as the click-through-rate (CTR) which is the #clicks/#impression.
+
 ---
